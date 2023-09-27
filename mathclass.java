@@ -10,6 +10,6 @@ public class mathclass {
         System.out.println("Square root of y is "+sq);
         System.out.println("Max value between the pi and y is "+max);
         System.out.println("Value of pi rounded to its lowest integer is "+round);
-        System.out.println("Ceiling Value of pi is "+Math.ceil(Math.abs(pi)));
+        System.out.println("Ceil Value of pi is "+Math.ceil(Math.abs(pi)));
      }
 }
