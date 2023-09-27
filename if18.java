@@ -17,5 +17,6 @@ public class if18 {
         {
             System.out.println("You are not 18 bro !! Forget your dreams and DIE");
         }
+        sc.close();
     }
 }
