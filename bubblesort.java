@@ -38,5 +38,7 @@ public class bubblesort {
         int max = array[size-1];
         System.out.print("\nLargest element in the array : "+max);
         System.out.print("\nSmallest element in the array : "+min);
+        sc.close();
     }
+    
 }
