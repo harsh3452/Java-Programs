@@ -5,9 +5,13 @@ public class if18 {
         int age;
         System.out.print("Enter you age bruh :");
         age = sc.nextInt();
-        if(age>=18)
+        if(age>=75)
         {
-            System.out.println("You are eligible for voting and other stuff !");
+            System.out.println("YoY!! Boomer ");
+        }
+        else if(age>=18)
+        {
+            System.out.println("Damn, You are an adult (at least according to the rules)");
         }
         else
         {
