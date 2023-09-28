@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class stack {
 
     static int x, size, op, top = -1;// Declaring varibles used globally for better accessibility
