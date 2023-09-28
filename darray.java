@@ -10,6 +10,14 @@ public class darray {
         cars[2][0]="Wagonr";
         cars[2][1]="Dezire";
         cars[2][2]="Scorpio";
+        /*
+        //Alternate way to assign value to an array
+         String[][] cars = {
+                                {'Lightning','Desire','Scorpio'}
+                                {'Bullet','Ferrari','Camro'}
+                                {'Toyota', 'WagonR', 'Silverado'}
+                             }
+         */
 
         for(int i = 0; i<cars.length; i++){
             System.out.println();
