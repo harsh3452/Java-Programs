@@ -1,0 +1,178 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "finalkeyword",
+      "request": "launch",
+      "mainClass": "finalkeyword",
+      "projectName": "Java-Programs_419e09e3"
+    },
+    {
+      "type": "java",
+      "name": "printf",
+      "request": "launch",
+      "mainClass": "printf",
+      "projectName": "Java-Programs_419e09e3"
+    },
+    {
+      "type": "java",
+      "name": "methodoverloading",
+      "request": "launch",
+      "mainClass": "methodoverloading",
+      "projectName": "Java-Programs_419e09e3"
+    },
+    {
+      "type": "java",
+      "name": "addmethods",
+      "request": "launch",
+      "mainClass": "addmethods",
+      "projectName": "Java-Programs_419e09e3"
+    },
+    {
+      "type": "java",
+      "name": "methods",
+      "request": "launch",
+      "mainClass": "methods",
+      "projectName": "Java-Programs_419e09e3"
+    },
+    {
+      "type": "java",
+      "name": "foreachloop",
+      "request": "launch",
+      "mainClass": "foreachloop",
+      "projectName": "Java-Programs_419e09e3"
+    },
+    {
+      "type": "java",
+      "name": "TwoDimensionalArrayList",
+      "request": "launch",
+      "mainClass": "TwoDimensionalArrayList",
+      "projectName": "Java-Programs_419e09e3"
+    },
+    {
+      "type": "java",
+      "name": "arraylist",
+      "request": "launch",
+      "mainClass": "arraylist",
+      "projectName": "Java-Programs_419e09e3"
+    },
+    {
+      "type": "java",
+      "name": "wrapper",
+      "request": "launch",
+      "mainClass": "wrapper",
+      "projectName": "Java-Programs_419e09e3"
+    },
+    {
+      "type": "java",
+      "name": "Stringclass",
+      "request": "launch",
+      "mainClass": "Stringclass",
+      "projectName": "Java-Programs_419e09e3"
+    },
+    {
+      "type": "java",
+      "name": "darray",
+      "request": "launch",
+      "mainClass": "darray",
+      "projectName": "Java-Programs_419e09e3"
+    },
+    {
+      "type": "java",
+      "name": "exp",
+      "request": "launch",
+      "mainClass": "exp",
+      "projectName": "Java-Programs_419e09e3"
+    },
+    {
+      "type": "java",
+      "name": "array2",
+      "request": "launch",
+      "mainClass": "array2",
+      "projectName": "Java-Programs_419e09e3"
+    },
+    {
+      "type": "java",
+      "name": "twoDarray",
+      "request": "launch",
+      "mainClass": "twoDarray",
+      "projectName": "Java-Programs_419e09e3"
+    },
+    {
+      "type": "java",
+      "name": "array",
+      "request": "launch",
+      "mainClass": "array",
+      "projectName": "Java-Programs_419e09e3"
+    },
+    {
+      "type": "java",
+      "name": "nestloop",
+      "request": "launch",
+      "mainClass": "nestloop",
+      "projectName": "Java-Programs_419e09e3"
+    },
+    {
+      "type": "java",
+      "name": "forloop",
+      "request": "launch",
+      "mainClass": "forloop",
+      "projectName": "Java-Programs_419e09e3"
+    },
+    {
+      "type": "java",
+      "name": "whileloop",
+      "request": "launch",
+      "mainClass": "whileloop",
+      "projectName": "Java-Programs_419e09e3"
+    },
+    {
+      "type": "java",
+      "name": "operators",
+      "request": "launch",
+      "mainClass": "operators",
+      "projectName": "Java-Programs_419e09e3"
+    },
+    {
+      "type": "java",
+      "name": "if18",
+      "request": "launch",
+      "mainClass": "if18",
+      "projectName": "Java-Programs_419e09e3"
+    },
+    {
+      "type": "java",
+      "name": "randomclass",
+      "request": "launch",
+      "mainClass": "randomclass",
+      "projectName": "Java-Programs_419e09e3"
+    },
+    {
+      "type": "java",
+      "name": "findhypo",
+      "request": "launch",
+      "mainClass": "findhypo",
+      "projectName": "Java-Programs_419e09e3"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Git Repo/Java-Programs",
+      "program": "c:/Git Repo/Java-Programs/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
