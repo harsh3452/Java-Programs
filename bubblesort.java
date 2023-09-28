@@ -8,7 +8,7 @@ public class bubblesort {
         int i,j;
         for(i=0;i<size;i++)//Taking elements from user 
         {
-            System.out.print("Array["+(i+1)+"]=");
+            System.out.print("Array["+(i+1)+"]=");//System.out.printf("Array [%d]",i+1);
             array[i] = sc.nextInt();
         }
         System.out.print("Entered Array : ");
