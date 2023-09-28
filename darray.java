@@ -13,9 +13,9 @@ public class darray {
         /*
         //Alternate way to assign value to an array
          String[][] cars = {
-                                {'Lightning','Desire','Scorpio'}
-                                {'Bullet','Ferrari','Camro'}
-                                {'Toyota', 'WagonR', 'Silverado'}
+                                {"Lightning", "Scoripo", "Forturner"}
+                                {"Bullet", "Desire", "BMW"}
+                                {"Mercedes","Attack On Titan", "Lighthing McQueen"}
                              }
          */
 
