@@ -25,5 +25,21 @@ public class wrapper {
         {
             System.out.println("This is true");
         }
+        if(b=='@')
+        {
+            System.out.println("This is true");
+        }
+        if(c==123)
+        {
+            System.out.println("This is true");
+        }
+        if(d==3.14)
+        {
+            System.out.println("This is true");
+        }
+        if(e=="Harsh")
+        {
+            System.out.println("This is true");
+        }
     }
 }
