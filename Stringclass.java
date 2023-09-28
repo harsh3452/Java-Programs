@@ -1,4 +1,4 @@
-public class Stringclass {
+public class stringclass {
     public static void main (String args []){
         String name = "   harsh    ";
        // boolean result = name.equalsIgnoreCase("harsh");

@@ -1,5 +1,5 @@
 import java.util.*;
-public class TwoDimensionalArrayList {
+public class twoDimensionalArrayList {
     public static void main (String args []){
         //2D ArrayLists = Dynamic list of lists. Also can change size during runtime
 
