@@ -6,7 +6,7 @@ public class arrayofobjects {
 
         Food food1 = new Food("VadaPav");
         Food food2 = new Food("Apples");
-        Food food3 = new Food("Cheese");
+        Food food3 = new Food("Butter");
 
         //refrigertor[0] = food1;
         //refrigertor[1] = food2;
